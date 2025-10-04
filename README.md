@@ -16,7 +16,7 @@
 - [ ] [TYPESCRIPT FOR BEGINNERS](https://www.udemy.com/course/typescript-for-beginners/)
 - [ ] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
-# JS & TS TESTING & DESIGN
+### JS & TS TESTING & DESIGN
 
 - [ ] [JavaScript Unit Testing - The Practical Guide](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
 - [ ] [React Testing Library and Jest: The Complete Guide](https://www.udemy.com/course/react-testing-library-and-jest/)
