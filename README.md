@@ -4,6 +4,10 @@
 
 ### [1 - JS basics](https://github.com/omeatai/JS-LABS-IFEANYI/blob/main/labs/1.md)
 
+### CODING ADDICT
+
+- [ ] [Js Fundamentals](https://www.codingaddict.io/l/products)
+
 ### JS BASICS
 
 - [ ] [JavaScript Fundamentals](https://www.udemy.com/course/javascriptfundamentals/)
