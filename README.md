@@ -1,12 +1,8 @@
 # JS-LABS-IFEANYI by Ifeanyi Omeata
 
-## #LABS
-
-### [1 - JS basics](https://github.com/omeatai/JS-LABS-IFEANYI/blob/main/labs/1.md)
-
 ### CODING ADDICT
 
-- [ ] [Js Fundamentals](https://www.codingaddict.io/l/products)
+- [ ] [Js Fundamentals](https://www.codingaddict.io/l/products) | [Notes](https://github.com/omeatai/JS-LABS-IFEANYI/blob/main/labs/1.md)
 
 ### JS BASICS
 
