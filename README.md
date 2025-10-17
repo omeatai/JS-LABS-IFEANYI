@@ -12,8 +12,8 @@
 
 ### TYPESCRIPT BASICS
 
-- [ ] [TypeScript Developer Course in 2025 – Beginner to Expert](https://www.udemy.com/course/typescript-developer-course-beginner-to-expert/)
 - [ ] [TYPESCRIPT FOR BEGINNERS](https://www.udemy.com/course/typescript-for-beginners/)
+- [ ] [TypeScript Developer Course in 2025 – Beginner to Expert](https://www.udemy.com/course/typescript-developer-course-beginner-to-expert/)
 - [ ] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
 ### TESTING & DESIGN
